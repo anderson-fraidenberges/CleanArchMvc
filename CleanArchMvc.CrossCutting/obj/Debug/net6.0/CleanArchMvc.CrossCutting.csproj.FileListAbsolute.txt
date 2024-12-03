@@ -1,0 +1,12 @@
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\CleanArchMvc.CrossCutting.csproj.AssemblyReference.cache
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\CleanArchMvc.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\CleanArchMvc.CrossCutting.AssemblyInfoInputs.cache
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\CleanArchMvc.CrossCutting.AssemblyInfo.cs
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\CleanArchMvc.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\bin\Debug\net6.0\CleanArchMvc.CrossCutting.deps.json
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\bin\Debug\net6.0\CleanArchMvc.CrossCutting.dll
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\bin\Debug\net6.0\CleanArchMvc.CrossCutting.pdb
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\CleanArchMvc.CrossCutting.dll
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\refint\CleanArchMvc.CrossCutting.dll
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\CleanArchMvc.CrossCutting.pdb
+D:\Repositorio\CleanArchMvc\CleanArchMvc.CrossCutting\obj\Debug\net6.0\ref\CleanArchMvc.CrossCutting.dll
